@@ -13,7 +13,7 @@ Several functions are defined for tracing the file path, uploading of the image,
 Also a function regarding ' Unable to Detect ' is also added which occurs when the face of an image is not clearly visible,
 Sometimes the error may occur because the accuarcy of the model is about 0.6.
 
-Using the conda environment we process the GUI file
+Using the conda environment we process the GUI file.
 We get the following results:
 
 Opening:
