@@ -27,3 +27,10 @@ Here are some other images which shows the results of different facial expressio
 
 The following is not able to detect the image as the face is not clearly oriented:
 ![image](https://github.com/NK3210/Emotion_Detection/assets/103502186/668851eb-d62e-4e98-8662-1b812037785e)
+
+Below shows some images of the Real time emotion detector using web interface:
+![image](https://github.com/NK3210/Emotion_Detection/assets/103502186/2679e167-f736-41e9-bd0c-05e4e72c78f4)
+![image](https://github.com/NK3210/Emotion_Detection/assets/103502186/99fe0912-4b68-4681-b597-43e130862b7d)
+![image](https://github.com/NK3210/Emotion_Detection/assets/103502186/6f8dbf52-beb9-47cf-bcd0-a7b2d2dde08e)
+
+
